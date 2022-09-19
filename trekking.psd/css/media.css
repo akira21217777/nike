@@ -1,0 +1,58 @@
+
+@media (max-width: 705px){
+    header .header-text h1{
+        font-size: 40px;
+        padding-top: 50px;
+    }
+    
+    header-text{
+        padding-bottom: 20px
+    }
+    
+ 
+}
+
+@media (max-width:443px){
+   header .header-text h1{
+        font-size: 25px;
+        padding-top: 15px;
+    }
+    
+    header .header-text{
+        padding-bottom: 20px
+    }
+    .div-center .container {
+        padding-top: 34px;
+    }
+    
+    .div-center{
+       padding: 0 0 0 0;
+    }
+    
+    .div-center button {
+        font-size: 13px;
+        padding: 14px 15px 13px 19px;
+    }
+    
+ 
+}
+
+@media (max-width:699px){
+   
+         header .header-text{
+             padding-bottom: 20px
+         }
+     
+  
+ }
+ 
+ @media (max-width:857px){
+   
+    header .header-text{
+        padding-bottom: 20px
+    }
+
+
+}
+
+ 
